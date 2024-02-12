@@ -1,5 +1,11 @@
 # Price_DAG_Generator
 
+## Reference Libary
+[Zotero Library](https://www.zotero.org/groups/5398245/pricegraphgeneration/library)
+
+## Conference Paper
+[Overleaf](https://www.overleaf.com/5256848778bqcxpfjzcckc#c82b7a)
+
 ## Project Timeline
 
 ### 19 February 2023
